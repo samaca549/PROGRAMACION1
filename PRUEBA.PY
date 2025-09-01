@@ -5,3 +5,4 @@ for i in range (numero, numero+101):
 
 print(numero)
 print("hola")
+print("hola")
