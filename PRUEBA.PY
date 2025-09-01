@@ -4,3 +4,4 @@ for i in range (numero, numero+101):
     numero=numero+i
 
 print(numero)
+print("hola")
