@@ -5,3 +5,5 @@ if(primernumero>segundonumero):
     print("el primer numero es mayor.")
 elif(primernumero<segundonumero):
     print("el segundo numero es mayor")
+else:
+    print("los dos numeros son iguales")
